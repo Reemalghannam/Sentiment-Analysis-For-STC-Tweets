@@ -1,6 +1,6 @@
 # Stc Tweets Sentiment Analysis
 Steps:
-1- Annotating STC data.
+1- Annotating STC tweets.
 2- Cleaning and Pre-processing.
 3- Feature Engineering: Tf-idf and Word2Vec.
 4- Trainig with Tf-idf.
